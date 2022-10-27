@@ -1,0 +1,10 @@
+.bg-image {
+    background-image: url("/img/4.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-shadow {
+    background-color: rgba(30, 30, 30, 0.75);
+}
